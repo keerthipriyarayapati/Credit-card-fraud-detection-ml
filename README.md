@@ -101,20 +101,6 @@ This project also provided practical experience in:
 * Model evaluation
 * Performance visualization
 
-
-## Repository Structure
-
-```bash
-credit-card-fraud-detection-ml/
-│
-├── Credit_Card_Fraud_Detection.ipynb
-├── README.md
-├── requirements.txt
-├── LICENSE
-└── images/
-```
-
-
 ## Dataset
 
 Dataset used for this project:
